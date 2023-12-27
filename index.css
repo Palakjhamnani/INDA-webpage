@@ -767,39 +767,48 @@ body {
   border: transparent;
   border-radius: 5px;
 }
+
 @media (max-width:1300px) {
-  .div-6-2{
+  .div-6-2 {
     display: flex;
     flex-direction: column;
     margin-top: 40px;
-  } 
-  .div-6-1{
+  }
+
+  .div-6-1 {
     margin-top: 60px;
   }
-  .div-6-1 p{
+
+  .div-6-1 p {
     margin-top: -10px;
     margin-bottom: -10px;
   }
-  .div-6-2-2{
-    height:120px;
+
+  .div-6-2-2 {
+    height: 120px;
     margin-bottom: 5px;
   }
-  .div-6-2-2 img{
+
+  .div-6-2-2 img {
     height: 100px;
   }
-  .div-6{
+
+  .div-6 {
     height: 1000px;
   }
 }
-.div-7 .title{
+
+.div-7 .title {
   margin-left: 60px;
   margin-top: 50px;
 }
-.div-7{
+
+.div-7 {
   background-color: #E7D6D652;
   margin-top: 20px;
 }
-.div-7-1{
+
+.div-7-1 {
   width: 430px;
   background-color: #F2C94C;
   margin-left: 80px;
@@ -810,85 +819,102 @@ body {
   justify-content: space-between;
   padding: 20px 50px;
 }
-.div-7 button{
+
+.div-7 button {
   border: none;
   padding: 0;
   cursor: pointer;
   background-color: transparent;
 }
-.div-7-1 h6{
+
+.div-7-1 h6 {
   margin-top: -20px;
   font-weight: normal;
   font-size: small;
   margin-left: 5px;
 }
-.div-7-1 h1{
+
+.div-7-1 h1 {
   font-size: 40px;
 }
-.div-7-1 h4{
+
+.div-7-1 h4 {
   font-weight: normal;
   color: #1D2130;
   font-size: 15px;
-  margin-left: 20px ;
+  margin-left: 20px;
 }
-.div-7-1 p{
+
+.div-7-1 p {
   font-weight: bold;
   font-size: 20px;
   margin-left: 20px;
   margin-top: -10px;
 }
-.div-7-2{
+
+.div-7-2 {
   display: flex;
   justify-content: center;
   margin-right: 80px;
   margin-bottom: 50px;
 }
-.div-7-3{
+
+.div-7-3 {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 50px;
 }
-.div-7-3 img{
+
+.div-7-3 img {
   margin-right: 200px;
 }
-.div-7-4{
+
+.div-7-4 {
   display: flex;
   align-items: center;
 }
-.div-7-4 img{
+
+.div-7-4 img {
   width: 35px;
   height: 35px;
 }
-.div-7-4 p{
+
+.div-7-4 p {
   margin-left: -150px;
   color: #000000;
   font-size: 25px;
   font-weight: lighter;
 }
+
 @media (max-width:1300px) {
-  .div-7-2{
+  .div-7-2 {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  .div-7-3{
+
+  .div-7-3 {
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
   }
-  .div-7-3 .image{
+
+  .div-7-3 .image {
     margin-right: 0;
     width: 600px;
   }
-  .div-7-4{
-    width:600px ;
+
+  .div-7-4 {
+    width: 600px;
   }
-  .div-7-3 h1{
+
+  .div-7-3 h1 {
     font-size: 60px;
   }
-  .div-7-4 p{
+
+  .div-7-4 p {
     font-size: 30px;
   }
-  
+
 }
