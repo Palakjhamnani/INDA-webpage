@@ -635,6 +635,7 @@ body {
 
   .div-5-1-1 {
     margin-left: 50px;
+    width: 700px;
   }
 
   .div-5-2 {
@@ -1095,7 +1096,7 @@ body {
   }
   .footer p{
     margin-left: 20%;
-    font-size: 50px;
+    font-size: 40px;
     width: 500px;
   }
   .footer .logo{
